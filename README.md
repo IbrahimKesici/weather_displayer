@@ -18,7 +18,4 @@ docker-compose 1.25.2+
 This session describes how to run/install the script.
 
 ### Installation/Run ###
-1. Double-click run.bat file
-
-### Getting Help ###
-Please contact with ibrahim.kesici@nordea.com
+1. Double-click run.bat file for Windows users(run.sh for Linux)

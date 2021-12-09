@@ -1,4 +1,4 @@
-FROM cpa.docker.itcm.oneadr.net/ubi8-python39:1.0.0
+FROM python:3.9
 
 WORKDIR /weather-displayer
 COPY . .
